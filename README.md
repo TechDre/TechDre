@@ -1,11 +1,11 @@
-<h1>Hi, I'm TechDre! <br/><a href="www.linkedin.com/in/dandre-sc537000
-
-/">Cybersecurity Professionial
+<h1>Hi, I'm Dre! <br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-<h2>📺 Popular YouTube Videos</h2>
+
+<h2>📺 Cloud Projects</h2>
+
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -15,12 +15,13 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/drcyberwho
+[twitter]: https://twitter.com/DrCyberWho
 [youtube]: 
 [instagram]: 
-[linkedin]: https://linkedin.com/in/dandre-sc37000
+[linkedin]: https://linkedin.com/in/dandre-sc537000
+
 <!--
-**TechDre1/TechDre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,5 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 - ⚡ Fun fact: ...
 -->
