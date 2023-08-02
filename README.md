@@ -1,10 +1,12 @@
 <h1>Hi, I'm Dre! <br/>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🌱 I’m currently learning ...</h2>
+Cloud Computing Basics such as Azure Active Directory, AWS IAM, S3 bucket...
 
 
 
-<h2>📺 Cloud Projects</h2>
+<h2>👨‍💻 Cybersecurity/Cloud Projects:</h2>
+
 
 
 
