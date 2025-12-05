@@ -72,7 +72,7 @@ Explore my **GRC + AI Compliance Portfolio**, which demonstrates hands-on docume
 | **Section** | **Description** |
 |------------|-----------------|
 | **Risk Register** | Risk catalog and scoring aligned with NIST SP 800-30 and RMF methodology. |
-| **Security Policies** | Access Control, Password Policy, Incident Response, and Acceptable Use authored for small-business environments. |
+| **ISO 27001 Checklist for Small Businesses** | ISO 27001 checklist was created to help small business owners understand the basics of building an Information Security Management System (ISMS). |
 | **AI Governance & Compliance** | AI RMF-aligned governance tables, bias mitigation concepts, and accountability frameworks. |
 | **Vendor / SaaS Risk Assessment** | Lightweight supplier risk questionnaire aligned with NIST SR and FedRAMP SA-9 controls. |
 | **Continuous Monitoring** | Metrics, POA&M reporting cadence, and tracking workflow. |
