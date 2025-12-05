@@ -1,4 +1,4 @@
-# 🛡️ Hi, I’m D'Andre — Cybersecurity Analyst in Training | IT Project Manager | CX/UX Advocate
+# 🛡️ Hi, I’m D'Andre — GRC Analyst in Training | IT Project Manager | CX/UX Advocate
 
 I’m a cybersecurity graduate student at UMGC and an IT Project Manager with a strong foundation in **governance, risk, and compliance (GRC)**, **customer experience (CX/UX)**, and real-world defensive security work.
 
