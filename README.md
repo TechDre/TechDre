@@ -92,7 +92,7 @@ Explore my **GRC + AI Compliance Portfolio**, which demonstrates hands-on docume
 ## 📬 Connect
 
 - ✉️ Email: **upon request**  
-- 🔗 LinkedIn: **LinkedIn link**  
+- 🔗 LinkedIn: **[LinkedIn link](https://github.com/TechDre)**  
 - 🗂️ Portfolio Repository: **coming soon**  
 - 🐙 GitHub: **[https://github.com/TechDre]**
 
