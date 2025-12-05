@@ -59,7 +59,7 @@ My work is rooted in:
 - Documenting processes, risks, and system impacts  
 - Bringing **CX/UX thinking** into technical modernization efforts  
 
-This background gives me a strong understanding of how systems, people, and policies intersect — skills that transfer directly into GRC and cybersecurity operations.
+This background gives me a strong understanding of how systems, people, and policies intersect; skills that transfer directly into GRC and cybersecurity operations.
 
 ---
 
